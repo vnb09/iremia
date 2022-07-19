@@ -1,0 +1,9 @@
+piano: <a href="https://www.flaticon.com/free-icons/piano" title="piano icons">Piano icons created by Stockio - Flaticon</a>
+rain: <a href="https://www.flaticon.com/free-icons/rain" title="rain icons">Rain icons created by Good Ware - Flaticon</a>
+forest: <a href="https://www.flaticon.com/free-icons/nature" title="nature icons">Nature icons created by Freepik - Flaticon</a>
+guitar: <a href="https://www.flaticon.com/free-icons/guitar" title="guitar icons">Guitar icons created by Freepik - Flaticon</a>
+waves: <a href="https://www.flaticon.com/free-icons/wave" title="wave icons">Wave icons created by max.icons - Flaticon</a>
+study: <a href="https://www.flaticon.com/free-icons/desktop" title="desktop icons">Desktop icons created by dDara - Flaticon</a>
+stop: <a href="https://www.flaticon.com/free-icons/stop-button" title="stop button icons">Stop button icons created by Pixel perfect - Flaticon</a>
+music: <a href="https://www.flaticon.com/free-icons/music" title="music icons">Music icons created by Freepik - Flaticon</a>
+
