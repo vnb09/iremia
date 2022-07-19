@@ -8,11 +8,11 @@ A desktop widget for ambient sounds<br>
 * WindowBuilder
 * Standard Widget Toolkit (SWT)
 <br>
- https://user-images.githubusercontent.com/56784362/179823542-38b30818-f801-4abb-b3a3-2726bff05b2b.mp4
+https://user-images.githubusercontent.com/56784362/179830829-964c86fc-8975-4073-9ee2-04881e688442.mp4
 <br>
 
 ### Download executable jar file from:
-<br>https://github.com/vnb09/iremia/releases 
+https://github.com/vnb09/iremia/releases 
 
 <br>
 ### Ambient sounds used
