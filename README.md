@@ -2,4 +2,4 @@
 A desktop widget for ambience sounds<br>
 <br>
 <br>
-![](music_widget.mp3)
+![](music_widget.mp4)
