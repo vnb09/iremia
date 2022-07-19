@@ -2,8 +2,7 @@
 A desktop widget for ambience sounds<br>
 <br>
 <br>
-![GitHub](https://img.shields.io/github/license/vnb09/iremia)     
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/vnb09/iremia)
+![GitHub](https://img.shields.io/github/license/vnb09/iremia)     ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/vnb09/iremia)     ![GitHub repo file count](https://img.shields.io/github/directory-file-count/vnb09/iremia)     
 <br>
 <br>
 
