@@ -16,9 +16,10 @@ https://user-images.githubusercontent.com/56784362/179830829-964c86fc-8975-4073-
 
 ### Download executable jar file from:
 https://github.com/vnb09/iremia/releases 
-
 <br>
-
+### Execute from command line
+java -jar \jarlocation\iremia.jar
+<br>
 ### Ambient sounds used
 * Rain 
 * Piano
