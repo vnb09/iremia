@@ -13,13 +13,15 @@ A desktop widget for ambient sounds<br>
 https://user-images.githubusercontent.com/56784362/179823542-38b30818-f801-4abb-b3a3-2726bff05b2b.mp4
 
 <br>
-### Download jar file from: https://github.com/vnb09/iremia/releases 
+### Download jar file from:  https://github.com/vnb09/iremia/releases 
 
 <br>
-#### Ambient Sounds:
+
+### Ambient Sounds:
 * Rain
 * Piano
 * Birds chirping in a forest
 * Guitar
 * Ocean waves
 * Study bgm
+<br>
