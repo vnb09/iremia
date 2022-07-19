@@ -1,7 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/vnb09/iremia)                  ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/vnb09/iremia)                  ![GitHub repo file count](https://img.shields.io/github/directory-file-count/vnb09/iremia) 
 # Iremia                    
 
-A desktop widget for ambient sounds<br>
+A desktop widget for ambient sounds.<br>
 
 ### Tools Used:
 * Eclipse IDE for Java Developers (includes Incubating components) Version: 2022-03 (4.23.0)
