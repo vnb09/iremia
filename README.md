@@ -8,7 +8,9 @@ A desktop widget for ambient sounds<br>
 * WindowBuilder
 * Standard Widget Toolkit (SWT)
 <br>
+
 https://user-images.githubusercontent.com/56784362/179830829-964c86fc-8975-4073-9ee2-04881e688442.mp4
+
 <br>
 
 ### Download executable jar file from:
@@ -24,6 +26,8 @@ https://github.com/vnb09/iremia/releases
 * Study bgm
 <br>
 ### Attributions for audio files used: 
-https://github.com/vnb09/iremia/blob/main/attribution_songs.txt<br>
+https://github.com/vnb09/iremia/blob/main/attribution_songs.txt 
+<br>
 ### Attributions for icon files used:
 https://github.com/vnb09/iremia/blob/main/attribution_icons.txt
+<br>
